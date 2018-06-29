@@ -15,6 +15,7 @@ K:   show basket
 L:   Show the list of books in the store (and check the quantity of stock)
 
 D 0 2:   Delete book with id 0, delete 2 copies
+
 ....
 ....
 
